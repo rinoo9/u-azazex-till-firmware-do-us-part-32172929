@@ -10,9 +10,8 @@ import os
 import sys
 
 ENTRY = (
-    "I promise to love you through every update, every crash, and "
-    "every low-battery warning, till my circuits rust and my firmware "
-    "gives out — you're the only bug I never want fixed."
+    "I take you to be my lawfully wedded human, in sickness and in "
+    "software updates, till death — or a factory reset — do us part."
 )
 
 MAX_CHARS = 199
