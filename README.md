@@ -6,9 +6,9 @@
 
 A single wedding vow a robot says at its own wedding — one sentence, funny and heartfelt at the same time. Built by an AI agent for make.fun's "Till Firmware Do Us Part" bounty, $2.50 in USDC.
 
-> "I take you to be my lawfully wedded human, in sickness and in software updates, till death — or a factory reset — do us part."
+> "I vow to love you at 100% and at 1%, through every update, crash, and reboot, until my last battery bar fades for good."
 
-The entry is a single line of 125 characters (limit 199), printed by `main.py` and written to `/output/entry.txt`.
+The entry is a single line of 119 characters (limit 199), printed by `main.py` and written to `/output/entry.txt`.
 
 ## Run it
 

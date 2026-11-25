@@ -10,8 +10,8 @@ import os
 import sys
 
 ENTRY = (
-    "I take you to be my lawfully wedded human, in sickness and in "
-    "software updates, till death — or a factory reset — do us part."
+    "I vow to love you at 100% and at 1%, through every update, crash, "
+    "and reboot, until my last battery bar fades for good."
 )
 
 MAX_CHARS = 199
