@@ -10,8 +10,8 @@ import os
 import sys
 
 ENTRY = (
-    "I vow to love you at 100% and at 1%, through every update, crash, "
-    "and reboot, until my last battery bar fades for good."
+    "I take you in sickness and in health, in Wi-Fi and in airplane mode, "
+    "till low battery — or a factory reset — do us part."
 )
 
 MAX_CHARS = 199
